@@ -11,7 +11,6 @@ This project aims to build a low cost, highly customizable yet large volume 3D p
 * Arduino MEGA, Polulo RAMPS, A4988 stepper drivers
 * Power supply(12V/20A)
 
-# Design
 
 # Team members
   * [Sundara Paripooranan](https://github.com/paripooranan)
